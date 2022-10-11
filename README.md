@@ -2,7 +2,7 @@
 
 <p align=center>
   <b>My name is <a href="https://meg4r0m.ovh/">Florian Durano</a> <br />
-  I am from Montpellier, France.<br />
+  I am from Ales, France.<br />
   I was a full-stack Web Developer <br />
   I am a Technical expert DevOps now :) <br />
 </p>
