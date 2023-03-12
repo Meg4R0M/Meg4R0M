@@ -66,8 +66,8 @@
 ## 🔭 Current Job:
 <p align=center>
   <span align=center class=d-flex>
-    <a href="https://www.kaliop.com/fr/jobs/" target="_blank" rel="noopener noreferrer">
-      <img title="Kaliop" height=100 src="https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/c9311be59d6ff8f20d0a03c7fb703131" alt="Kaliop" style="vertical-align:top; margin:4px">
+    <a href="https://www.welcometothejungle.com/fr/companies/klanik/jobs" target="_blank" rel="noopener noreferrer">
+      <img title="Klanik" height=100 src="https://www.capcampus.com/img/u/1/klanic.JPG" alt="Klanik" style="vertical-align:top; margin:4px">
     </a>
   </span>
 </p>
