@@ -4,7 +4,7 @@
   <b>My name is <a href="https://meg4r0m.ovh/">Florian Durano</a> <br />
   I am from Ales, France.<br />
   I was a full-stack Web Developer <br />
-  I am a Technical expert DevOps now :) <br />
+  I am a Technical expert DevSecOps now :) <br />
 </p>
 
 <center>
@@ -66,8 +66,8 @@
 ## 🔭 Current Job:
 <p align=center>
   <span align=center class=d-flex>
-    <a href="https://www.welcometothejungle.com/fr/companies/klanik/jobs" target="_blank" rel="noopener noreferrer">
-      <img title="Klanik" height=100 src="https://www.capcampus.com/img/u/1/klanic.JPG" alt="Klanik" style="vertical-align:top; margin:4px">
+    <a href="https://neverhack.com/fr/jobs" target="_blank" rel="noopener noreferrer">
+      <img title="Neverhack" height=100 src="https://neverhack.com/images/neverhack_logo_text.svg" alt="Neverhack" style="vertical-align:top; margin:4px">
     </a>
   </span>
 </p>
