@@ -1,73 +1,127 @@
-<h1 align=center> Welcome 👋 </h1>
-
-<p align=center>
-  <b>My name is <a href="https://meg4r0m.ovh/">Florian Durano</a> <br />
-  I am from Ales, France.<br />
-  I was a full-stack Web Developer <br />
-  I am a Technical expert DevSecOps now :) <br />
+<!-- ---------- BANNIÈRE HAUTE ---------- -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Meg4R0M&fontColor=c0caf5&fontSize=70&fontAlignY=35&desc=La%20cyber%20est%20humaine&descAlignY=58&descSize=18" alt="header"/>
 </p>
 
-<center>
+<!-- ---------- TITRE ANIMÉ ---------- -->
+<p align="center">
+  <a href="https://github.com/meg4r0m">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Pentester+%F0%9F%94%93;DevSecOps+Tech+Lead+%E2%9A%99%EF%B8%8F;Fondateur+%40+Humanix+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Formateur+%26+RSSI+externalis%C3%A9+%F0%9F%8E%93;Digital+sovereignty+%26+open+source+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
+  </a>
+</p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=meg4r0m.meg4r0m)
-[![Github](https://img.shields.io/github/followers/meg4r0m?label=Follow&style=social)](https://github.com/meg4r0m)
+<!-- ---------- BADGES DE PROFIL ---------- -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/florian-durano/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://meg4r0m.ovh/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=firefoxbrowser&logoColor=bb9af7" alt="Portfolio"/></a>
+  <a href="https://twitter.com/ToosDL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <img src="https://komarev.com/ghpvc/?username=meg4r0m&label=Profile%20views&color=7aa2f7&style=for-the-badge" alt="views"/>
+</p>
 
-</center>
+---
 
-## ✉️ Find me on:
+## `whoami`
+
+```bash
+$ ./meg4r0m --status
+[+] Name        : Florian Durano
+[+] Role        : Founder & President @ Humanix Cybersecurity
+[+] Focus       : Offensive Security (Web / API / Infra / Active Directory)
+[+] Also        : DevSecOps · NIS2 · RSSI externalisé · Formateur
+[+] Location    : Alès, Occitanie — France
+[+] Mindset     : "La cyber est humaine" — pédagogie > peur
+[+] Loadout     : Open source first · AGPLv3 · souveraineté numérique
+[+] Status      : Breaking things ethically since 2009
+```
+
+> 🛡️ **Humanix Cybersecurity** — cybersécurité offensive & pédagogique pour les **PME/TPE** et institutions.
+> Pentest · DevSecOps · conformité NIS2 · sensibilisation. Objectif : rendre la cyber **compréhensible, actionnable et concrète**.
+
+---
+
+## 🎯 Arsenal
+
+### 🔓 Offensive Security
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BloodHound-C41E3A?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white"/>
+</p>
+
+### ⚙️ DevSecOps & Infra
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white"/>
+</p>
+
+### 🇫🇷 Souveraineté & Open Source
+<p>
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-1a1b27?style=flat-square&logo=linux&logoColor=bb9af7"/>
+  <img src="https://img.shields.io/badge/AGPLv3-A42E2B?style=flat-square&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Self--Hosted-1a1b27?style=flat-square&logo=serverless&logoColor=7aa2f7"/>
+</p>
+
+### 💻 Languages & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 🏅 Certifications & Reconnaissance
+
+<p>
+  <img src="https://img.shields.io/badge/HTB-CPTS-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTB-CBBH-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Qualiopi-Formation-1a1b27?style=for-the-badge&logo=googlescholar&logoColor=bb9af7"/>
+  <img src="https://img.shields.io/badge/Activateur-France_Num-000091?style=for-the-badge&logo=francerail&logoColor=white"/>
+</p>
+
+---
+
+## ⚡ Terrain & Communauté
+
+- 🎓 **Formateur depuis 2009** — EPSI · IRIS Mediaschool · Doranco *(80% pratique, 20% théorie)*
+- 🏆 **CTF & Bug Bounty** — YesWeHack · Yogosha · Root-Me · `5e/98 @ Auvergn'Hack 2026`
+- 🧪 **Labs pédagogiques** — Active Directory (GOAD) · OWASP Juice Shop (CTFd)
+- 🤝 **Réseaux** — Cyber'Occ · Digital 113 · French Tech Méditerranée · CEFCYS · HackInProvence *(bureau)*
+- 🐧 20+ ans d'IT, du dev full-stack à l'offensif
+
+---
+
+## 📊 Stats
 
 <p align="center">
-  <a href="https://meg4r0m.ovh/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/florian-durano/" target="_blank" rel="noopener noreferrer" style="margin: 0 50px 0 50px;"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://twitter.com/ToosDL" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meg4r0m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meg4r0m&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5"/>
 </p>
-<br />
 
-
-## 🧰 Tools:
-<p align=center>
-  <span align=center class=d-flex>
-    <img title="Ansible" src="https://www.fullstackpython.com/img/logos/ansible-wide.png" alt="Ansible" height="40" style="vertical-align:top; margin:4px">
-    <img title="CookieCutter" src="https://raw.githubusercontent.com/cookiecutter/cookiecutter/3ac078356adf5a1a72042dfe72ebfa4a9cd5ef38/logo/cookiecutter_medium.png" alt="CookieCutter" height="40" style="vertical-align:top; margin:4px">
-    <img title="Packer" src="https://www.packer.io/img/logo-hashicorp.svg" alt="Packer" height="40" style="vertical-align:top; margin:4px">
-    <br />
-    <img title="Terraform" src="https://www.terraform.io/assets/images/logo-hashicorp-3f10732f.svg" alt="Terraform" height="40" style="vertical-align:top; margin:4px">
-    <img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/610px-Docker_%28container_engine%29_logo.svg.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
-    <img title="Kubernetes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/798px-Kubernetes_logo.svg.png" alt="Kubernetes" height="40" style="vertical-align:top; margin:4px">
-  </span>
-  <br />
-  <span align=center class=d-flex>
-    <img title="AWS" height=50 src="https://cbesolutions.com/wp-content/uploads/2019/11/amazon-aws-logo-transparent-300x169.png" alt="AWS" style="vertical-align:top; margin:4px">
-    <img title="Google Cloud" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Google_Cloud_Logo.svg/512px-Google_Cloud_Logo.svg.png" alt="Google Cloud" height="35" style="vertical-align:bottom; margin:4px">
-    <img title="VMWare" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vmware.svg/190px-Vmware.svg.png" alt="VMWare" height="25" style="vertical-align:bottom; margin:4px">
-    <img title="Proxmox" src="https://www.teicee.com/images/Proxmox_logo_standard_hex_2000px.png" alt="Proxmox" height="40" style="vertical-align:bottom; margin:4px">
-  </span>
-  <br />
-  <span align=center class=d-flex>
-    <img title="Gitlab" height=80 src="https://www.troispointzero.fr/content/uploads/2020/02/gitlab-logo-900x397.png" alt="Gitlab" style="vertical-align:top; margin:4px">
-    <img title="Github" height=60 src="https://inodecloud.com/wp-content/uploads/github-logo-1-300x100.png" alt="Github" style="vertical-align:bottom; margin:4px">
-  </span>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meg4r0m&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=c0caf5"/>
 </p>
-<br />
-<br />
-<br />
-<center>
-  <span align=center>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=meg4r0m&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meg4r0m&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+</p>
 
-  </span>
-  <span align=center>
+---
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meg4r0m&theme=tokyonight)
-  </span>
-</center>
-
-## 🔭 Current Job:
-<p align=center>
-  <span align=center class=d-flex>
-    <a href="https://neverhack.com/fr/jobs" target="_blank" rel="noopener noreferrer">
-      <img title="Neverhack" height=100 src="https://neverhack.com/images/neverhack_logo_text.svg" alt="Neverhack" style="vertical-align:top; margin:4px">
-    </a>
-  </span>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer&text=Hack%20the%20planet%2C%20protect%20the%20people&fontColor=c0caf5&fontSize=16&fontAlignY=70"/>
 </p>
